@@ -10,6 +10,7 @@ Obtain your own validation errors by showing confusion matrices. Choose one of t
 2) Download MNIST Dataset (train: 60000 + test: 10000)
 3) Install PyCharm3.6 or Anaconda3 & import appropriate libraries (tensorflow, keras, tensorboard, etc.)(tensorflow, keras, tensorboard, etc.)
 4) Download a known source from GITHUB (ResNet-18
+
 •Matlab Version
 1) Use ResNet-18 (You may use pre-Trained paramaters)
 2) Download MNIST Dataset (train: 60000 + test: 10000)
